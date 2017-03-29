@@ -1,0 +1,4 @@
+# this is to ignore any .laccdb files
+# the * matches anything.  
+# so anyfile that ends in .laccdb will be ignored by git 
+*.laccdb
